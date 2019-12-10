@@ -20,4 +20,3 @@ let sourceList: Satellite[] =
      new Satellite("ISS", "Space Station", "1998-11-20", "LOW", true),
   ];
 
-console.log(sourceList);
